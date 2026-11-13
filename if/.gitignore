@@ -1,0 +1,26 @@
+# Cache do Python
+__pycache__/
+*.py[cod]
+
+# Ambiente virtual
+venv/
+.venv/
+
+# Arquivos de configuração sensíveis
+.env
+
+# Builds e distribuições
+build/
+dist/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Testes
+.pytest_cache/
+.coverage
+htmlcov/
+
+# VS Code
+.vscode/
